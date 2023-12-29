@@ -5,7 +5,7 @@
 The goal of this project is to build an automated data pipeline that extracts raw data from the Spotify API into Amazon S3 bucket, transforms and store into Amazon S3 and load into Snowflake using SnowPipe to build analysis using PowerBI
 
 ## Architecture Diagram
-<img src="spotify_aws_etl.jpeg">
+<img src="spotify_aws_etl.JPG">
 
 ## Tools 
 
